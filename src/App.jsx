@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <h1>GitHub Collaborators</h1>
-      <h2>New branch</h2>
+      <h2>Tamima Khanam Mim </h2>
     </>
   )
 }
