@@ -6,7 +6,7 @@ function App() {
     <>
       <h1>GitHub Collaborators</h1>
 
-      <h2>New branch Development</h2>
+      <h2>Nusrat Jahan</h2>
     </>
   )
 }
